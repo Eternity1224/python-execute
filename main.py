@@ -20,3 +20,10 @@ def sous_menu_3():
  print("b - Saisir les informations de l'album (titre, année, stream ) ")
  print("c - Mettre à jour catalogue.json")
 
+def sous_menu_4():
+ print("a - Top 5 des artistes par nombre total de streams")
+ print("b - Moyenne des streams par genre musical")
+ print("c - Nombre d'album sorti par année (agrégation)")
+ print("d - Exporter le rapport complet dans rapport.csv")
+
+
