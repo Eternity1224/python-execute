@@ -10,3 +10,13 @@ def sous_menu_1():
  print("b - Rechercher un artiste par nom ou par genre")
  print("c - Afficher le détail d'un artiste")
 
+def sous_menu_2():
+ print("a - Saisir les informations de l'artiste au clavier")
+ print("b - Vérifier que l'identifiant n'existe pas déjà")
+ print("c - Sauvegarder immédiatement dans catalogue.json")
+
+def sous_menu_3():
+ print("a - Rechercher l'artiste par son identifiant")
+ print("b - Saisir les informations de l'album (titre, année, stream ) ")
+ print("c - Mettre à jour catalogue.json")
+
