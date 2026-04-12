@@ -33,5 +33,7 @@ def main():
   menu()
   choix = int(input("Votre choix : "))
 if __name__==__main__:
- main()
-
+ try:
+  main()
+ exception KeyboardInterrupt:
+  print("Programme interrompu ...")
