@@ -26,4 +26,12 @@ def sous_menu_4():
  print("c - Nombre d'album sorti par année (agrégation)")
  print("d - Exporter le rapport complet dans rapport.csv")
 
+def main():
+ choix = 0
+ print("Bienvenue dans mon application")
+ while (choix !=5):
+  menu()
+  choix = int(input("Votre choix : "))
+if __name__==__main__:
+ main()
 
