@@ -32,8 +32,8 @@ def main():
  while (choix !=5):
   menu()
   choix = int(input("Votre choix : "))
-if __name__==__main__:
+if __name__=="__main__":
  try:
   main()
- exception KeyboardInterrupt:
+ except KeyboardInterrupt:
   print("Programme interrompu ...")
