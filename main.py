@@ -32,6 +32,19 @@ def main():
  while (choix !=5):
   menu()
   choix = int(input("Votre choix : "))
+  match choix:
+   case 1:
+    sous_menu_1()
+   case 2:
+    sous_menu_2()
+   case 3:
+    sous_menu_3()
+   case 4:
+    sous_menu_4()
+   case 5:
+    exit
+   case _:
+    print("Mauvaise valeur")
 if __name__=="__main__":
  try:
   main()
