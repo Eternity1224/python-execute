@@ -1,3 +1,5 @@
+import label
+import analyse
 def menu():
     print("\n1 - Consulter le catalogue")
     print("2 - Ajouter un Artiste")
