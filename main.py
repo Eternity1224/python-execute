@@ -46,18 +46,51 @@ def main():
                     sous_choix = input("Votre sous-choix : ")
                     match sous_choix:
                      case 'a':
-                      #fonction pour la case a
+                      label.lister_artistes('catalogue.json')
                      case 'b':
-                      #fonction pour la case b
+                      label.rechercher_artiste('catalogue.json','nom',val)
+                     case 'c':
+                      #fonction pour la case c
+                     case _:
+                      print("Mauvaise valeur")
                 case 2:
                     sous_menu_2()
                     sous_choix = input("Votre sous-choix : ")
+                    match sous_choix:
+                     case 'a':
+                      #fonction pour la case a
+                     case 'b':
+                      #fonction pour la case b
+                     case 'c':
+                      #fonction pour la case c
+                     case _:
+                      print("Mauvaise valeur")
                 case 3:
                     sous_menu_3()
                     sous_choix = input("Votre sous-choix : ")
+                    match sous_choix:
+                     case 'a':
+                      label.rechercher_artiste('catalogue.json','id',val)
+                     case 'b':
+                      #fonction pour la case b
+                     case 'c':
+                      #fonction pour la case c
+                     case _:
+                      print("Mauvaise valeur")
                 case 4:
                     sous_menu_4()
                     sous_choix = input("Votre sous-choix : ")
+                    match sous_choix:
+                     case 'a':
+                      #fonction pour la case a
+                     case 'b':
+                      #fonction pour la case b
+                     case 'c':
+                      #fonction pour la case c
+                     case 'd':
+                     #fonction pour la case d
+                     case _:
+                      print("Mauvaise valeur")
                 case 5:
                     print("Au revoir !")
                 case _:
