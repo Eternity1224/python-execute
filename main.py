@@ -5,7 +5,7 @@ CHEMIN = "catalogue.json"
 
 
 def menu():
-    print("\n=== SahelSound Records ===")
+    print("\n=== Menu du programme ===")
     print("1 - Consulter le catalogue")
     print("2 - Ajouter un artiste")
     print("3 - Ajouter un album à un artiste existant")
