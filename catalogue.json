@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ART-001",
+    "nom": "Fally Ipupa",
+    "genre": "Afrobeat",
+    "pays": "RDC",
+    "albums": [
+      {"titre": "Power Kosa Leka", "annee": 2013, "streams": 4200000},
+      {"titre": "Tokooos", "annee": 2017, "streams": 6800000}
+    ]
+  },
+  {
+    "id": "ART-002",
+    "nom": "Burna Boy",
+    "genre": "Afrobeats",
+    "pays": "Nigeria",
+    "albums": [
+      {"titre": "African Giant", "annee": 2019, "streams": 12000000},
+      {"titre": "Twice as Tall", "annee": 2020, "streams": 18500000},
+      {"titre": "Love Damini", "annee": 2022, "streams": 22000000}
+    ]
+  },
+  {
+    "id": "ART-003",
+    "nom": "Wizkid",
+    "genre": "Afrobeats",
+    "pays": "Nigeria",
+    "albums": [
+      {"titre": "Superstar", "annee": 2011, "streams": 5400000},
+      {"titre": "Made in Lagos", "annee": 2020, "streams": 25000000},
+      {"titre": "More Love Less Ego", "annee": 2022, "streams": 19000000}
+    ]
+  },
+  {
+    "id": "ART-004",
+    "nom": "Davido",
+    "genre": "Afrobeats",
+    "pays": "Nigeria",
+    "albums": [
+      {"titre": "Omo Baba Olowo", "annee": 2012, "streams": 4800000},
+      {"titre": "A Good Time", "annee": 2019, "streams": 11500000},
+      {"titre": "We Rise by Lifting Others", "annee": 2023, "streams": 14000000}
+    ]
+  },
+  {
+    "id": "ART-005",
+    "nom": "DJ Arafat",
+    "genre": "Coupé-Décalé",
+    "pays": "Côte d'Ivoire",
+    "albums": [
+      {"titre": "Molo Molo", "annee": 2010, "streams": 2100000},
+      {"titre": "Damatex", "annee": 2014, "streams": 3400000},
+      {"titre": "Hommage", "annee": 2019, "streams": 4700000}
+    ]
+  },
+  {
+    "id": "ART-006",
+    "nom": "Serge Beynaud",
+    "genre": "Coupé-Décalé",
+    "pays": "Côte d'Ivoire",
+    "albums": [
+      {"titre": "Pilier de la fête", "annee": 2013, "streams": 1800000},
+      {"titre": "Tchôlôlô", "annee": 2016, "streams": 2900000},
+      {"titre": "Afrique en fête", "annee": 2020, "streams": 3600000}
+    ]
+  },
+  {
+    "id": "ART-007",
+    "nom": "Aya Nakamura",
+    "genre": "Afropop",
+    "pays": "Mali",
+    "albums": [
+      {"titre": "Nakamura", "annee": 2018, "streams": 16000000},
+      {"titre": "Allah", "annee": 2020, "streams": 20000000},
+      {"titre": "DNK", "annee": 2023, "streams": 17500000}
+    ]
+  },
+  {
+    "id": "ART-008",
+    "nom": "Ninho",
+    "genre": "Hip-hop",
+    "pays": "Cameroun",
+    "albums": [
+      {"titre": "M.I.L.S 3.0", "annee": 2019, "streams": 9800000},
+      {"titre": "Jefe", "annee": 2020, "streams": 13000000},
+      {"titre": "NI", "annee": 2022, "streams": 11500000}
+    ]
+  },
+  {
+    "id": "ART-009",
+    "nom": "Tiwa Savage",
+    "genre": "Afrobeats",
+    "pays": "Nigeria",
+    "albums": [
+      {"titre": "Once Upon a Time", "annee": 2013, "streams": 3900000},
+      {"titre": "R.E.D", "annee": 2015, "streams": 5200000},
+      {"titre": "Water & Garri", "annee": 2021, "streams": 8700000}
+    ]
+  },
+  {
+    "id": "ART-010",
+    "nom": "Youssou N'Dour",
+    "genre": "Mbalax",
+    "pays": "Sénégal",
+    "albums": [
+      {"titre": "Egypt", "annee": 2004, "streams": 2700000},
+      {"titre": "Rokku Mi Rokka", "annee": 2007, "streams": 1900000},
+      {"titre": "Africa Rekk", "annee": 2019, "streams": 3100000}
+    ]
+  },
+  {
+    "id": "ART-011",
+    "nom": "Toofan",
+    "genre": "Afrobeats",
+    "pays": "Togo",
+    "albums": [
+      {"titre": "Fiesta", "annee": 2012, "streams": 1600000},
+      {"titre": "Gbetti", "annee": 2016, "streams": 2400000},
+      {"titre": "Dieu le veut", "annee": 2021, "streams": 3200000}
+    ]
+  },
+  {
+    "id": "ART-012",
+    "nom": "Sidiki Diabaté",
+    "genre": "Afropop",
+    "pays": "Mali",
+    "albums": [
+      {"titre": "Remerciements", "annee": 2015, "streams": 2800000},
+      {"titre": "Mali", "annee": 2017, "streams": 4100000},
+      {"titre": "Niɲɛ kɛ kuma", "annee": 2022, "streams": 5500000}
+    ]
+  }
+]
