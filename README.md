@@ -1,7 +1,5 @@
 # Création d'application en python en utilisant pandas
 
-> Description courte
-
 ##  Structure du projet
 
 | Fichier  | Auteur(s) |
