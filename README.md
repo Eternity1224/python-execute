@@ -14,7 +14,7 @@
 python main.py
 ```
 
-## 👥 Équipe
+##  Équipe
 
 - **ANATO Elysé** — `main.py`
 - **Da Sylva Fayad & Amir** — `label.py`  
