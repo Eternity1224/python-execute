@@ -1,4 +1,4 @@
-# Nom du projet
+# Création d'application en python en utilisant pandas
 
 > Description courte
 
@@ -9,10 +9,6 @@
 | `main.py` | ... | ANATO Elysé |
 | `label.py` | ... | Da Sylva Fayad & Amir |
 | `analyse.py` | ... | Houekpetodji Jeanne & FANOU Osé |
-
-##  Fonctionnement
-
-...
 
 ##  Utilisation
 
