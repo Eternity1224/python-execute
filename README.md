@@ -7,7 +7,7 @@
 | Fichier  | Auteur(s) |
 |---|---|
 | `main.py` | ANATO Elysé |
-| `label.py`  Da Sylva Fayad & Amir |
+| `label.py` | Da Sylva Fayad & Amir |
 | `analyse.py` | Houekpetodji Jeanne & FANOU Osé |
 
 ##  Utilisation
